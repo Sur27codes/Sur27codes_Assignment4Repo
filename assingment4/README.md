@@ -8,7 +8,7 @@ Submitting Date: 6/09/2024
 
 Step 1 : Clone the repository
 
-git clone  https://github.com/Sur27codes/sur27codes_Assignment3Repo.git
+git clone  https://github.com/Sur27codes/Sur27codes_Assignment4Repo.git
 
 Step 2 : run below command in you terminal.
 
